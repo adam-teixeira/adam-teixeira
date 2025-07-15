@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+# >Hi there 👋
 
 <!--
 **adam-teixeira/adam-teixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,15 +6,13 @@
 
 ---
 
-## 📊 <p align="center">Most Used Languages</p>
-<p align="center">
+## 📊 Most Used Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-teixeira&layout=compact&theme=default" alt="Top Languages">
-</p>
 
 ---
 
-## 🧰 <p align="center">Tools & Technologies</p>
-<p align="center">
+## 🧰 >Tools & Technologies
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -37,8 +35,8 @@
 
 ---
 
-## 🌱 <p align="center">Currently Learning</p>
-<p align="center">
+## 🌱 Currently Learning
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Accessibility-000000?style=for-the-badge&logo=accessibility&logoColor=white"/>
@@ -46,9 +44,16 @@
 
 ---
 
-## 📫 <p align="center">Let's Connect!</p>
-<p align="center">
+## 📫 Let's Connect!
+<p>
   <a href="https://www.linkedin.com/in/adam-sousa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/adteix.si/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://medium.com/@adamsts"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/profmauricioneto/profmauricioneto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/profmauricioneto/profmauricioneto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/profmauricioneto/profmauricioneto/output/pacman-contribution-graph.svg">
+</picture>
