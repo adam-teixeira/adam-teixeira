@@ -4,12 +4,10 @@
 **adam-teixeira/adam-teixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
----
 
 ## 📊 Most Used Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-teixeira&layout=compact&theme=default" alt="Top Languages">
 
----
 
 ## 🧰 >Tools & Technologies
 <p>
@@ -33,7 +31,6 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
----
 
 ## 🌱 Currently Learning
 <p>
@@ -42,7 +39,6 @@
   <img src="https://img.shields.io/badge/Accessibility-000000?style=for-the-badge&logo=accessibility&logoColor=white"/>
 </p>
 
----
 
 ## 📫 Let's Connect!
 <p>
@@ -51,7 +47,6 @@
   <a href="https://medium.com/@adamsts"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/profmauricioneto/profmauricioneto/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/profmauricioneto/profmauricioneto/output/pacman-contribution-graph.svg">
