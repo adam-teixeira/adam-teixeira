@@ -1,4 +1,4 @@
-# >Hi there 👋
+# Hi there 👋
 
 <!--
 **adam-teixeira/adam-teixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam-teixeira&layout=compact&theme=default" alt="Top Languages">
 
 
-## 🧰 >Tools & Technologies
+## 🧰 Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
