@@ -1,4 +1,3 @@
-<div align="center">
 <h1>Hi there 👋</h1>
 
 <!--
@@ -63,5 +62,3 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/SEU_USUARIO/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://medium.com/@SEU_USUARIO"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
 </p>
-
-</div>
