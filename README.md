@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 😄 Pronouns: 
+<p>he/him</p>
+<p>ele/dele</p></p>
 
-<h1 align="center">Hi there!👋</h1>
-- 😄 Pronouns: he/him
 ---
-
 
 ## 📊 Most Used Languages
 <p align="center">
@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 ---
 
 ## 🧰 Tools & Technologies
-
-<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -48,24 +46,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-</p>
 
 ---
 
 ## 🌱 Currently Learning
-
-<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Accessibility-000000?style=flat&logo=accessibility&logoColor=white"/>
-</p>
 
 ---
 
 ## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adam-sousa-teixeira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adam-sousa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/SEU_USUARIO/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://medium.com/@SEU_USUARIO"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
-</p>
